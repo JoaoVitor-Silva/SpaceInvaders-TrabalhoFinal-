@@ -1,0 +1,28 @@
+C:\Users\ANA CLARA\source\repos\TrabalhoFinal\TrabalhoFinal\bin\Debug\netcoreapp3.1\TrabalhoFinal.exe
+C:\Users\ANA CLARA\source\repos\TrabalhoFinal\TrabalhoFinal\bin\Debug\netcoreapp3.1\TrabalhoFinal.deps.json
+C:\Users\ANA CLARA\source\repos\TrabalhoFinal\TrabalhoFinal\bin\Debug\netcoreapp3.1\TrabalhoFinal.runtimeconfig.json
+C:\Users\ANA CLARA\source\repos\TrabalhoFinal\TrabalhoFinal\bin\Debug\netcoreapp3.1\TrabalhoFinal.runtimeconfig.dev.json
+C:\Users\ANA CLARA\source\repos\TrabalhoFinal\TrabalhoFinal\bin\Debug\netcoreapp3.1\TrabalhoFinal.dll
+C:\Users\ANA CLARA\source\repos\TrabalhoFinal\TrabalhoFinal\bin\Debug\netcoreapp3.1\TrabalhoFinal.pdb
+C:\Users\ANA CLARA\source\repos\TrabalhoFinal\TrabalhoFinal\obj\Debug\netcoreapp3.1\TrabalhoFinal.csproj.AssemblyReference.cache
+C:\Users\ANA CLARA\source\repos\TrabalhoFinal\TrabalhoFinal\obj\Debug\netcoreapp3.1\TrabalhoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANA CLARA\source\repos\TrabalhoFinal\TrabalhoFinal\obj\Debug\netcoreapp3.1\TrabalhoFinal.AssemblyInfoInputs.cache
+C:\Users\ANA CLARA\source\repos\TrabalhoFinal\TrabalhoFinal\obj\Debug\netcoreapp3.1\TrabalhoFinal.AssemblyInfo.cs
+C:\Users\ANA CLARA\source\repos\TrabalhoFinal\TrabalhoFinal\obj\Debug\netcoreapp3.1\TrabalhoFinal.csproj.CoreCompileInputs.cache
+C:\Users\ANA CLARA\source\repos\TrabalhoFinal\TrabalhoFinal\obj\Debug\netcoreapp3.1\TrabalhoFinal.dll
+C:\Users\ANA CLARA\source\repos\TrabalhoFinal\TrabalhoFinal\obj\Debug\netcoreapp3.1\TrabalhoFinal.pdb
+C:\Users\ANA CLARA\source\repos\TrabalhoFinal\TrabalhoFinal\obj\Debug\netcoreapp3.1\TrabalhoFinal.genruntimeconfig.cache
+C:\Users\Aluno.SENAIFIEMG\Downloads\Trabalho-main\TrabalhoFinal\bin\Debug\netcoreapp3.1\TrabalhoFinal.exe
+C:\Users\Aluno.SENAIFIEMG\Downloads\Trabalho-main\TrabalhoFinal\bin\Debug\netcoreapp3.1\TrabalhoFinal.deps.json
+C:\Users\Aluno.SENAIFIEMG\Downloads\Trabalho-main\TrabalhoFinal\bin\Debug\netcoreapp3.1\TrabalhoFinal.runtimeconfig.json
+C:\Users\Aluno.SENAIFIEMG\Downloads\Trabalho-main\TrabalhoFinal\bin\Debug\netcoreapp3.1\TrabalhoFinal.runtimeconfig.dev.json
+C:\Users\Aluno.SENAIFIEMG\Downloads\Trabalho-main\TrabalhoFinal\bin\Debug\netcoreapp3.1\TrabalhoFinal.dll
+C:\Users\Aluno.SENAIFIEMG\Downloads\Trabalho-main\TrabalhoFinal\bin\Debug\netcoreapp3.1\TrabalhoFinal.pdb
+C:\Users\Aluno.SENAIFIEMG\Downloads\Trabalho-main\TrabalhoFinal\obj\Debug\netcoreapp3.1\TrabalhoFinal.csproj.AssemblyReference.cache
+C:\Users\Aluno.SENAIFIEMG\Downloads\Trabalho-main\TrabalhoFinal\obj\Debug\netcoreapp3.1\TrabalhoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno.SENAIFIEMG\Downloads\Trabalho-main\TrabalhoFinal\obj\Debug\netcoreapp3.1\TrabalhoFinal.AssemblyInfoInputs.cache
+C:\Users\Aluno.SENAIFIEMG\Downloads\Trabalho-main\TrabalhoFinal\obj\Debug\netcoreapp3.1\TrabalhoFinal.AssemblyInfo.cs
+C:\Users\Aluno.SENAIFIEMG\Downloads\Trabalho-main\TrabalhoFinal\obj\Debug\netcoreapp3.1\TrabalhoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Aluno.SENAIFIEMG\Downloads\Trabalho-main\TrabalhoFinal\obj\Debug\netcoreapp3.1\TrabalhoFinal.dll
+C:\Users\Aluno.SENAIFIEMG\Downloads\Trabalho-main\TrabalhoFinal\obj\Debug\netcoreapp3.1\TrabalhoFinal.pdb
+C:\Users\Aluno.SENAIFIEMG\Downloads\Trabalho-main\TrabalhoFinal\obj\Debug\netcoreapp3.1\TrabalhoFinal.genruntimeconfig.cache
